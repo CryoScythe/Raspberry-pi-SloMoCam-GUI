@@ -1,7 +1,7 @@
 # Raspberry-pi-SloMoCam-GUI
 Basic py-GUI for picam
 
-**Latest changes v1.2:
+** Latest changes v1.2:
 * screen adjustment
 * optimization for different versions
 * support for NoIR cameras
